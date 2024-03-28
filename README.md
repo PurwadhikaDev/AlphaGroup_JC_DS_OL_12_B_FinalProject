@@ -1,5 +1,7 @@
 **Model Prediksi Mobil Bekas United Kingdom**
 
+Dikarenakan model berukuran lebih besar dari 25MB, final model bisa diakses di link ini: https://drive.google.com/file/d/1iWBCjYL3_g5VZM70cstx9fF_yPty04xV/view?usp=sharing
+
 Project ini dibuat dalam rangka Final Project  Purwadhika, sebagai syarat kelulusan program Data Science Online.
 
 **Content**
@@ -69,7 +71,6 @@ Pada umumnya untuk regresi, kita bisa menggunakan metric seperti MAE,RMSE,R2,MAP
 * LightGBM: https://lightgbm.readthedocs.io/en/stable/
 * Decision Tree Regression: https://scikit-learn.org/stable/modules/tree.htm
 
-Final model bisa diakses di link ini: https://drive.google.com/file/d/1iWBCjYL3_g5VZM70cstx9fF_yPty04xV/view?usp=sharing
 
 
 **Limitation**
