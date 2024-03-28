@@ -1,4 +1,4 @@
-Model Prediksi Mobil Bekas United Kingdom 
+**Model Prediksi Mobil Bekas United Kingdom**
 
 Project ini dibuat dalam rangka Final Project  Purwadhika, sebagai syarat kelulusan program Data Science Online.
 
@@ -48,6 +48,7 @@ Project ini dibuat dalam rangka Final Project  Purwadhika, sebagai syarat kelulu
 * **brand**: merek mobil
 
 **Use Case**
+
 * Model ini nantinya akan digunakan oleh calon penjual mobil yang hendak memasang listing pada platform kita.
 * Calon penjual mobil hanya perlu memasukkan informasi spesifikasi mobil yang dibutuhkan (model,year,transmission,mileage,fueltype,mpg,enginesize(liter),brand) dan model akan memberikan rekomendasi harganya.
 
@@ -68,6 +69,8 @@ Pada umumnya untuk regresi, kita bisa menggunakan metric seperti MAE,RMSE,R2,MAP
 * LightGBM: https://lightgbm.readthedocs.io/en/stable/
 * Decision Tree Regression: https://scikit-learn.org/stable/modules/tree.htm
 
+Final model bisa diakses di link ini: https://drive.google.com/file/d/1iWBCjYL3_g5VZM70cstx9fF_yPty04xV/view?usp=sharing
+
 
 **Limitation**
 
@@ -80,6 +83,7 @@ Pada umumnya untuk regresi, kita bisa menggunakan metric seperti MAE,RMSE,R2,MAP
     * Mobil dengan rentang nilai pasaran 450-159999 poundsterling
  
 **Conclusion**
+
 Berdasarkan modeling yang sudah kita lakukan, faktor yang paling berpengaruh terhadap price adalah jenis transmisi, engine size, dan year.Jika dilihat dari MdAPE pada model akhir, apabila nantinya model ini digunakan untuk memprediksi harga mobil bekas, model ini diperkirakan akan meleset kurang lebih 5% dari harga seharusnya.Perkiraan 5% ini tidak mutlak sehingga masih ada kemungkinan untuk meleset lebih atau justru kurang dari 5% ini.
 
  
