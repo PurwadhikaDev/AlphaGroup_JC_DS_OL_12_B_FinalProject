@@ -86,4 +86,6 @@ Final model bisa diakses di link ini: https://drive.google.com/file/d/1iWBCjYL3_
 
 Berdasarkan modeling yang sudah kita lakukan, faktor yang paling berpengaruh terhadap price adalah jenis transmisi, engine size, dan year.Jika dilihat dari MdAPE pada model akhir, apabila nantinya model ini digunakan untuk memprediksi harga mobil bekas, model ini diperkirakan akan meleset kurang lebih 5% dari harga seharusnya.Perkiraan 5% ini tidak mutlak sehingga masih ada kemungkinan untuk meleset lebih atau justru kurang dari 5% ini.
 
+**Tableau Dashboard**
+https://public.tableau.com/app/profile/steven.gordianus/viz/FinalProject_17116248960980/Dashboard1
  
